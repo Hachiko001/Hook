@@ -1,0 +1,5 @@
+LIBRARY HOOK
+EXPORTS
+	InitMouseHook @1
+	InitKeyHook @2
+	UninstallHook @3

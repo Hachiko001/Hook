@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+     Creating library D:\GitHub\Hook\MouseHookDemo\Debug\MouseHookDemo.lib and object D:\GitHub\Hook\MouseHookDemo\Debug\MouseHookDemo.exp
+MouseHookDemo.exp : warning LNK4070: /OUT:HOOK.dll directive in .EXP differs from output filename 'D:\GitHub\Hook\MouseHookDemo\Debug\MouseHookDemo.dll'; ignoring directive
+  MouseHookDemo.vcxproj -> D:\GitHub\Hook\MouseHookDemo\Debug\MouseHookDemo.dll
+  MouseHookDemo.vcxproj -> D:\GitHub\Hook\MouseHookDemo\Debug\MouseHookDemo.pdb (Full PDB)
